@@ -1,0 +1,6 @@
+{
+  "name": "CoSuite - Coworking CRM & ERP",
+  "description": "Multi-center coworking operations platform combining visitor management, billing, onboarding, bookings, CRM pipeline, and AI-powered occupancy and yield optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
